@@ -10,3 +10,4 @@ DashiPortable is the mobile end version of Dashi plus exclusive feature availabl
 •	Integrated Google Map API into the app
 
 •	Optimized backend call latency using client-side caching
+
